@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!👋
+
+My name is Rafal (Rafael) Papala and I'm passionate about learning new skills and I'm looking forward to become Junior Java Developer soon.
+Currently I'm attending at intense Java Programming Cours and improving my skills on below languages and tools:
+
+<picture>
+  <img src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777">
+</picture>
 
 <!--
 **PapaZouk/PapaZouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
