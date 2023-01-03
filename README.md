@@ -4,7 +4,7 @@ My name is Rafal (Rafael) Papala and I'm passionate about learning new skills an
 Currently I'm attending at intense Java Programming Cours and improving my skills on below languages and tools:
 
 <picture>
-  <img src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777">
+  <img src="[https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777](https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67)">
 </picture>
 
 <!--
