@@ -3,9 +3,32 @@
 My name is Rafal (Rafael) Papala and I'm passionate about learning new skills and I'm looking forward to become Junior Java Developer soon.
 Currently I'm attending at intense Java Programming Cours and improving my skills on below languages and tools:
 
-<picture>
-  <img src="[https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777](https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67)">
-</picture>
+<p>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
+       srcset="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png 2x" 
+       alt="Java" 
+       width="30"/>
+  <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/96/Apps-Intellij-icon.png"
+       srcset="https://icons.iconarchive.com/icons/alecive/flatwoken/96/Apps-Intellij-icon.png 2x"
+       alt="Intellij"
+       width="30"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" 
+       srcset="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png 2x" 
+       alt="Postgresql Icon" 
+       width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+       srcset="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png x2" 
+       alt="HTML5" 
+       width="30px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+       srcset="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png x2" 
+       alt="CSS3" 
+       width="30px"/>
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png"
+       srcset="https://maven.apache.org/images/maven-logo-black-on-white.png x2"
+       alt="Maven"
+       width="100px"/>
+</p>
 
 <!--
 **PapaZouk/PapaZouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
