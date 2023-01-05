@@ -28,6 +28,10 @@ Currently I'm attending at intense Java Programming Cours and improving my skill
        srcset="https://maven.apache.org/images/maven-logo-black-on-white.png x2"
        alt="Maven"
        width="100px"/>
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256725/file-type-light-gradle-icon-sm.png"
+       srcset="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256725/file-type-light-gradle-icon-sm.png x2"
+       alt="Gradle"
+       width="30"/>
 </p>
 
 <!--
