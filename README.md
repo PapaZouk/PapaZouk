@@ -24,12 +24,20 @@ Currently I'm attending at intense Java Programming Cours and improving my skill
        srcset="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png x2" 
        alt="CSS3" 
        width="30px"/>
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png"
-       srcset="https://maven.apache.org/images/maven-logo-black-on-white.png x2"
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"
+       srcset="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png x2"
        alt="Maven"
-       width="100px"/>
+       width="30px"/>
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256725/file-type-light-gradle-icon-sm.png"
        srcset="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256725/file-type-light-gradle-icon-sm.png x2"
+       alt="Gradle"
+       width="30"/>
+  <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png"
+       srcset="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png x2"
+       alt="Gradle"
+       width="30"/>
+   <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png"
+       srcset="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png x2"
        alt="Gradle"
        width="30"/>
 </p>
